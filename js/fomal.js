@@ -3756,7 +3756,7 @@ if (localStorage.getItem('blogbg') != undefined) {
     --default-bg: url(https://tuchuang.voooe.cn/images/2023/04/12/cover_191.webp);
     --darkmode-bg:url(https://tuchuang.voooe.cn/images/2023/04/12/cover_141.webp);
     --mobileday-bg: url(https://tuchuang.voooe.cn/images/2023/04/12/cover_195.webp);
-    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2023/04/12/cover_128.webp);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2023/04/12/cover_100.webp);
   }`
 }
 // 切换背景主函数
