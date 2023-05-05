@@ -6986,10 +6986,10 @@ div#archive {
 }
 
 /* 调整楼中楼样式 ，整体左移，贴合气泡化效果 */
-.tk-replies {
+/* .tk-replies {
   left: -70px;
   width: calc(100% + 70px);
-}
+} */
 
 /* 头像宽度调整 rem单位与全局字体大小挂钩，需配合自己情况调整大小以保证头像显示完整*/
 .tk-replies .tk-avatar {
