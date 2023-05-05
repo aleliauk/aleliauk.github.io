@@ -7011,9 +7011,7 @@ div#archive {
 /* 评论块气泡化修改 */
 .tk-content {
   /* linear-gradient(to bottom, #2193b0, #6dd5ed); */
-  background: linear-gradient(to top,
-      #4568dc,
-      #b06ab3);
+  background-color: #8d6ca3;
   /*默认模式访客气泡配色*/
   padding: 10px;
   color: #fff;
@@ -7058,9 +7056,7 @@ div#archive {
 }
 
 .tk-master .tk-content {
-  background: linear-gradient(to top,
-      #43cea2,
-      #185a9d);
+  background-color: #29b19e;
   /*默认模式博主气泡配色*/
   color: #fff;
   /*默认模式博主气泡字体配色*/
