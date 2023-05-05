@@ -7141,10 +7141,10 @@ div#archive {
     border-right: 0px solid transparent;
   }
 
-  .tk-master .tk-avatar {
+  /* .tk-master .tk-avatar {
     position: relative;
     left: calc(75% + 70px);
-  }
+  } */
 
   .tk-master .tk-row[data-v-d82ce9a0] {
     position: relative;
