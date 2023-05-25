@@ -6,7 +6,7 @@ var end_date =
 	(date.getMonth() > 8 ? date.getMonth() + 1 : '0' + (date.getMonth() + 1)) +
 	(date.getDate() > 9 ? date.getDate() : '0' + date.getDate()) // 结束日期
 var access_token =
-	'121.d992f6fc8c608b5fbd5ae74c96de4384.YQ-byyGRNO09DXNvDFHJk6z_3eA3u33ghFe_eP-.KJNp5A' // accessToken
+	'121.4c07f351b8efc173af5dc364272f4b63.Y3Qm_Ba9uTGSSKIhjE7xv3Rpfu0q6tWkcbOstWL.wxYU1g' // accessToken
 var site_id = '19032914' // 网址 id
 var dataUrl =
 	'https://baidu-tongji.aleliauk.top/api?access_token=' + access_token + '&site_id=' + site_id
